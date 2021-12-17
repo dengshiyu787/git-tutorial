@@ -1,5 +1,7 @@
 hello world
 
-Write something deliberatively
+feature-A new branch 
 
-manually add a sentence in feature-D
+-fix-B
+
+Write something deliberatively
