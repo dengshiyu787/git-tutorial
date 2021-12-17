@@ -1,7 +1,4 @@
 hello world
 
-feature-A new branch 
+feature-D
 
--fix-B
-
-Write something deliberatively
