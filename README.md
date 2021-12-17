@@ -1,6 +1,5 @@
 hello world
 
-feature-A new branch
--fix-B
-
 Write something deliberatively
+
+manually add a sentence in feature-D
